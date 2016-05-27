@@ -1,0 +1,6 @@
+c:\users\jlee014704\documents\visual studio 2015\Projects\ArrayListsSortingStrings\ArrayListsSortingStrings\bin\Debug\ArrayListsSortingStrings.exe.config
+c:\users\jlee014704\documents\visual studio 2015\Projects\ArrayListsSortingStrings\ArrayListsSortingStrings\bin\Debug\ArrayListsSortingStrings.exe
+c:\users\jlee014704\documents\visual studio 2015\Projects\ArrayListsSortingStrings\ArrayListsSortingStrings\bin\Debug\ArrayListsSortingStrings.pdb
+c:\users\jlee014704\documents\visual studio 2015\Projects\ArrayListsSortingStrings\ArrayListsSortingStrings\obj\Debug\ArrayListsSortingStrings.csprojResolveAssemblyReference.cache
+c:\users\jlee014704\documents\visual studio 2015\Projects\ArrayListsSortingStrings\ArrayListsSortingStrings\obj\Debug\ArrayListsSortingStrings.exe
+c:\users\jlee014704\documents\visual studio 2015\Projects\ArrayListsSortingStrings\ArrayListsSortingStrings\obj\Debug\ArrayListsSortingStrings.pdb
